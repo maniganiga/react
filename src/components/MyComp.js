@@ -4,13 +4,9 @@ const MyComp = () => {
   return (
     <div className="hairtsag">
       <div>
-        <h1 className="commerce">MyComp</h1>
-      </div>
-      <div>
-        <h1 className="commerce">MyComp</h1>
-      </div>
-      <div>
-        <h1 className="commerce">MyComp</h1>
+        <p>
+          <strong>mylol</strong>
+        </p>
       </div>
     </div>
   );
